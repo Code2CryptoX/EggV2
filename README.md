@@ -12,7 +12,7 @@ https://t.me/Code2Crypto
 
 ## Termux Command's
 
-git clone https://github.com/Code2CryptoX/Egg.git
+git clone https://github.com/Code2CryptoX/EggV2.git
 
 cd Egg
 
